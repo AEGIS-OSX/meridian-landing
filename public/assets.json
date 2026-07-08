@@ -1,37 +1,37 @@
 {
   "logo": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/meridian-landing/cleo/1783525194103-logo.png",
+    "alt": "A minimalist, flat vector logo for Meridian. It features a geometric mark and serif wordmark in deep espresso brown (#2C1E1A) with a copper (#B87333) accent, centered on a warm off-white (#F9F7F2) bac",
     "width": 1024,
     "height": 1024
   },
   "hero": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/meridian-landing/cleo/1783525046203-hero.png",
+    "alt": "A high-angle studio shot of the Meridian One dripper on a concrete bench. The composition emphasizes material honesty and precision, using the locked palette of warm off-white and copper accents to es",
     "width": 1920,
     "height": 1080
   },
   "feature_1": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/meridian-landing/cleo/1783525042093-feature_1.png",
+    "alt": "A macro studio shot of the Meridian One dripper's copper adjustment dial against a matte espresso body. The image emphasizes material honesty and precision machining, utilizing a warm 3200K light sour",
     "width": 800,
     "height": 600
   },
   "feature_2": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/meridian-landing/cleo/1783525039452-feature_2.png",
+    "alt": "A macro studio shot of the Meridian Immersion brewer's brass valve assembly on a concrete bench. It captures the 'machinist studio' aesthetic through material honesty, warm directional lighting, and a",
     "width": 800,
     "height": 600
   },
   "feature_3": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/meridian-landing/cleo/1783525038100-feature_3.png",
+    "alt": "A top-down macro shot of the Meridian Travel brewer components on a concrete bench. The image emphasizes material honesty and machinist precision through the contrast of matte espresso aluminum and wa",
     "width": 800,
     "height": 600
   },
   "social_proof": {
-    "url": "",
-    "alt": "",
+    "url": "https://zkvkbpxrxnfynqqeytke.supabase.co/storage/v1/object/public/marketing-assets/meridian-landing/cleo/1783525318928-social_proof.png",
+    "alt": "A tactile, macro shot of a machinist's hand on a concrete bench next to brass equipment components. It establishes the 'studio workshop' mood and material honesty required by the creative direction, u",
     "width": 1200,
     "height": 800
   }
